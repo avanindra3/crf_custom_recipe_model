@@ -1,2 +1,5 @@
-# crf_custom_recipe_model
-Develop a custom Named Entity Recognition (NER) model to identify and extract key elements from recipe text, such as ingredients, quantities, and units of measurement.
+# CRF (Conditional Random Fields) Custom Recipe Model
+Developing a custom Named Entity Recognition (NER) model to identify and extract key elements from recipe text, such as ingredients, quantities, and units of measurement. By applying this model, we will convert unstructured recipe text into structured data,thereby enhancing recipes earch engines, cooking assistants, and meal planning applications.
+
+## Business Value
+The business objective is to leverage the increasing popularity of online cooking platforms and meal planning apps by enhancing user experience. This can be achieved by implementing a custom Named Entity Recognition (NER) model to automatically tag ingredients, quantities, and recipe names. This automation will streamline the process of organizing recipes, improve searchability, and enable users to easily find recipes based on available ingredients, portion sizes, or specific dietary requirements. This will ultimately reduce the labor-intensive and inefficient manual tagging process, providing a more accessible and efficient way for businesses in the food and recipe industry to manage their recipe databases.
